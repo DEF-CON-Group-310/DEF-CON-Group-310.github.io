@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+jekyll", "~> 4.4"
 
 gem "jekyll-theme-chirpy", "~> 7.0", ">= 7.0.1"
 
